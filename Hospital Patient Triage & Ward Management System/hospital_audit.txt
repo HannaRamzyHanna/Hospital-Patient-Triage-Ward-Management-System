@@ -1,3 +1,0 @@
-[Mon Oct 26 21:10:41 2026] ADMITTED: Ahmed Ali (ID: 101) assigned to General [Priority: 3]
-[Mon Oct 26 21:11:02 2026] ADMITTED: Muhamed Hassan (ID: 102) assigned to ICU [Priority: 1]
-[Mon Oct 26 21:12:08 2026] DISCHARGED: Patient Muhamed Hassan (ID: 102) freed bed in ICU
